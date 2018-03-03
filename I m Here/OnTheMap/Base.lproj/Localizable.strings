@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  OnTheMap
+
+ Created by Srinivasan, Sharath on 12/13/16.
+ Copyright © 2016 Sharath Srinivasan. All rights reserved.*/
+
+// Generic String
+"OK" = "OK";
+"NetworkFailure" = "There was a problem communicating with Udacity.\n\nPlease wait a moment and try again.";
+
+// Login Strings
+"LoginFailureTitle" = "Login Failed";
+"LoginCredentialFailure" = "Your combination of username and password was not recognized.\n\nDouble check what you've entered and try again.";
+
+// Logout Strings
+"LogoutFailureTitle" = "Logout Failed";
+
+// Refresh Strings
+"RefreshFailureTitle" = "Couldn't Get Student Information";
+
+// Location Search Strings
+"NoLocationFailureTitle" = "No Location Given";
+"NoLocationFailure" = "No location was given to find.\n\nPlease enter one before searching.";
+"LocationNotFoundFailureTitle" = "Location Not Found";
+"LocationNotFoundFailure" = "There was a problem looking up the location you gave.\n\nDouble check what you've entered and try again.";
+
+// Post Strings
+"PostFailureTitle" = "Posting Failed";
